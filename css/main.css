@@ -1,0 +1,104 @@
+img{
+	max-width: 100%;
+}
+
+.centrar{
+	float: none;
+}
+
+.espacio-arriba{
+	margin-top: 1.5%;
+}
+
+.indie{
+	font-family: 'Indie Flower', cursive;
+}
+
+.animatic{
+	font-family: 'Amatic SC', cursive;
+}
+
+.grande{
+	font-size: 2.5em;
+}
+
+.hand{
+	font-family: 'Patrick Hand', cursive;
+}
+
+.espacio-derecha{
+	margin-right: 0.2em;
+}
+
+.fondo{
+	background: -webkit-linear-gradient(left, #ff7f50, #ff8b61, #ff9872, #ffa584, #ffb296, #ffbfa7, #ffcbb9, #ffd8ca, #ffe5dc);
+	background: -o-linear-gradient(right, #ff7f50, #ff8b61, #ff9872, #ffa584, #ffb296, #ffbfa7, #ffcbb9, #ffd8ca, #ffe5dc); 
+	background: -moz-linear-gradient(right, #ff7f50, #ff8b61, #ff9872, #ffa584, #ffb296, #ffbfa7, #ffcbb9, #ffd8ca, #ffe5dc);
+	background: linear-gradient(to right, #ff7f50, #ff8b61, #ff9872, #ffa584, #ffb296, #ffbfa7, #ffcbb9, #ffd8ca, #ffe5dc); 
+}
+
+.fondo2{
+	background: -webkit-linear-gradient(left, #3e5f8a, #50d0ff, #ffbf00, #ff7f50);
+	background: -o-linear-gradient(right, #3e5f8a, #50d0ff, #ffbf00, #ff7f50); 
+	background: -moz-linear-gradient(right, #3e5f8a, #50d0ff, #ffbf00, #ff7f50);
+	background: linear-gradient(to right, #3e5f8a, #50d0ff, #ffbf00, #ff7f50); 
+}
+
+.fondo3{
+	background: -webkit-linear-gradient(left, #358672, #3d9882, #44ab91, #4fb99f, #61c0a9, #73c8b3, #86cfbd, #95d5c5, #a7dccf, #b8e3d8, #caeae2);
+	background: -o-linear-gradient(right, #358672, #3d9882, #44ab91, #4fb99f, #61c0a9, #73c8b3, #86cfbd, #95d5c5, #a7dccf, #b8e3d8, #caeae2); 
+	background: -moz-linear-gradient(right, #358672, #3d9882, #44ab91, #4fb99f, #61c0a9, #73c8b3, #86cfbd, #95d5c5, #a7dccf, #b8e3d8, #caeae2);
+	background: linear-gradient(to right, #358672, #3d9882, #44ab91, #4fb99f, #61c0a9, #73c8b3, #86cfbd, #95d5c5, #a7dccf, #b8e3d8, #caeae2);
+}
+
+.fondo4{
+	background: -webkit-linear-gradient(left, #623b51, #70445c, #7e4c68, #8d5574, #986681, #a3768f, #af889d, #ba99ab);
+	background: -o-linear-gradient(right, #623b51, #70445c, #7e4c68, #8d5574, #986681, #a3768f, #af889d, #ba99ab); 
+	background: -moz-linear-gradient(right, #623b51, #70445c, #7e4c68, #8d5574, #986681, #a3768f, #af889d, #ba99ab);
+	background: linear-gradient(to right, #623b51, #70445c, #7e4c68, #8d5574, #986681, #a3768f, #af889d, #ba99ab); 
+}
+
+.no-lista li{
+	list-style-type: none;
+}
+
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+
+.gris{
+	background-color: #b8e3d8;
+}
+
+.padding-largo{
+	padding: 5px 10px;
+}
+
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.arriba{
+	vertical-align: top;
+}
+
+p{
+	font-size: 13.8pt;
+	text-align: justify;
+}
+
+video{
+	max-width: 100%;
+	min-width: 50%;
+}
+
+.icono{
+	background-image: url(img/icono.png);
+}
+
+iframe{
+	max-width: 100%;
+}
